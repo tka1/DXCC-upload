@@ -1,0 +1,16 @@
+E:\Visual Studio 2015\Projects\dxcc\dxcc\obj\Debug\dxcc.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\dxcc\dxcc\bin\Debug\dxcc.exe.config
+E:\Visual Studio 2015\Projects\dxcc\dxcc\bin\Debug\dxcc.exe
+E:\Visual Studio 2015\Projects\dxcc\dxcc\bin\Debug\dxcc.pdb
+E:\Visual Studio 2015\Projects\dxcc\dxcc\bin\Debug\Npgsql.dll
+E:\Visual Studio 2015\Projects\dxcc\dxcc\bin\Debug\Npgsql.xml
+E:\Visual Studio 2015\Projects\dxcc\dxcc\obj\Debug\dxcc.exe
+E:\Visual Studio 2015\Projects\dxcc\dxcc\obj\Debug\dxcc.pdb
+E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\bin\Debug\dxcc.exe.config
+E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\obj\Debug\dxcc.exe
+E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\obj\Debug\dxcc.pdb
+E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\bin\Debug\dxcc.exe
+E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\bin\Debug\dxcc.pdb
+E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\bin\Debug\Npgsql.dll
+E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\bin\Debug\Npgsql.xml
+E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\obj\Debug\dxcc.csprojResolveAssemblyReference.cache
