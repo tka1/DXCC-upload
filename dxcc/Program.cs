@@ -12,7 +12,7 @@ namespace dxcc
     {
         static void Main(string[] args)
         {
-            NpgsqlConnection conn = new NpgsqlConnection("Server=192.168.1.52;User Id=cluster;" +
+            NpgsqlConnection conn = new NpgsqlConnection("Server=localhost;User Id=cluster;" +
                                 "Password=Saturnus1!;Database=postgres;");
             try // truncate dxcc table
             {
@@ -35,7 +35,9 @@ namespace dxcc
             char splitchar2 = ',';
             try { // parse country file
                 int kountti = 0;
-                string[] lines = File.ReadAllLines("wl_cty2.txt");    // read rows to array 
+                string path = @"c:\Temp\wl_cty.dat";
+                string[] lines = File.ReadAllLines(path);    // read rows to array 
+                Console.WriteLine(lines.Length);
 
                 for (int i=0;i<= lines.Length; i++) // parse array
                 {
@@ -47,7 +49,7 @@ namespace dxcc
                         while (!":".Equals(lines[i+prefrow].Substring(lines[i+prefrow].Length - 1, 1))) // loop all prefix lines
                         {
                             string[]prefix = lines[i + prefrow].Split(splitchar2);
-                           // Console.WriteLine(lines[i + prefrow]);
+                            Console.WriteLine(lines[i + prefrow]);
                             for(int ii=0; ii < prefix.Length; ii++)
                             {
                                 string pref = prefix[ii];
@@ -69,7 +71,7 @@ namespace dxcc
                                 pref = pref.Replace(";", "");
                                 pref = pref.Trim();
                                
-                                Console.WriteLine(pref + "  " + countryline[0] + "  "+ kountti);
+                                Console.WriteLine(kountti + "  " + pref + "  " + countryline[0] );
                                 try
                                 {
                                     
@@ -120,11 +122,15 @@ namespace dxcc
                     //string lastchar = lines[i].Substring(lines[i].Length - 1, 1);
                    
                 }
+                Console.WriteLine(kountti);
 
               
                 Console.ReadLine();
             }
-            catch { }
+            catch (Exception e)
+            { Console.WriteLine(e.Message);
+            }
+          
             Console.ReadLine();
         }
     }

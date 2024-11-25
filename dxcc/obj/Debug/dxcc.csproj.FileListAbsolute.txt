@@ -14,3 +14,43 @@ E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\bin\Debug\dxcc.pdb
 E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\bin\Debug\Npgsql.dll
 E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\bin\Debug\Npgsql.xml
 E:\GitHub\ClusterETL\ETL\sourcecode\Visual studio\dxcc\dxcc\obj\Debug\dxcc.csprojResolveAssemblyReference.cache
+C:\Github\DXCC-upload\dxcc\bin\Debug\dxcc.exe.config
+C:\Github\DXCC-upload\dxcc\bin\Debug\dxcc.exe
+C:\Github\DXCC-upload\dxcc\bin\Debug\dxcc.pdb
+C:\Github\DXCC-upload\dxcc\bin\Debug\Npgsql.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\Npgsql.xml
+C:\Github\DXCC-upload\dxcc\obj\Debug\dxcc.csproj.AssemblyReference.cache
+C:\Github\DXCC-upload\dxcc\obj\Debug\dxcc.csproj.CoreCompileInputs.cache
+C:\Github\DXCC-upload\dxcc\obj\Debug\dxcc.csproj.Up2Date
+C:\Github\DXCC-upload\dxcc\obj\Debug\dxcc.exe
+C:\Github\DXCC-upload\dxcc\obj\Debug\dxcc.pdb
+C:\Github\DXCC-upload\dxcc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Buffers.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Collections.Immutable.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Memory.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Numerics.Vectors.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Text.Encodings.Web.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Text.Json.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Threading.Channels.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.ValueTuple.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Buffers.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Collections.Immutable.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Memory.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Numerics.Vectors.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Text.Encodings.Web.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Text.Json.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Threading.Channels.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.ValueTuple.xml
