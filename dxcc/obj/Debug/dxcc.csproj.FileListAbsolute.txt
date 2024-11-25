@@ -54,3 +54,5 @@ C:\Github\DXCC-upload\dxcc\bin\Debug\System.Text.Json.xml
 C:\Github\DXCC-upload\dxcc\bin\Debug\System.Threading.Channels.xml
 C:\Github\DXCC-upload\dxcc\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Github\DXCC-upload\dxcc\bin\Debug\System.ValueTuple.xml
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.IO.Pipelines.dll
+C:\Github\DXCC-upload\dxcc\bin\Debug\System.IO.Pipelines.xml
